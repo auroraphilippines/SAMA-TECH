@@ -1,9 +1,9 @@
 # SAMA TECH
 
 <p align="center">
-	<img src="./assets/sama-tech.png" alt="SAMA TECH Logo" width="200" />
-	<br />
-	<img src="./assets/aurora.png" alt="Aurora Logo" width="120" />
+  <img src="./assets/sama-tech.png" alt="SAMA TECH Logo" width="200" />
+  &nbsp;&nbsp;
+  <img src="./assets/aurora.png" alt="Aurora Logo" width="200" />
 </p>
 
 ## Technology Solutions for Aurora Province
